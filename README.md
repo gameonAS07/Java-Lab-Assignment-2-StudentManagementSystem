@@ -45,7 +45,7 @@ javac StudentRecordSystem.java
 4. Run the programjava StudentRecordSystem
 java StudentRecordSystem
 
-##Example Output
+## Example Output
 ===== Student Record Menu =====
 1. Add Student
 2. Display All Students
@@ -57,12 +57,12 @@ Enter Course: BCA
 Enter Marks: 87.5
 Student added successfully!
 
-##===== Student Record Menu =====
--Enter your choice: 2
-##===== Student Records =====
--Roll No: 101
--Name: Rahul
--Course: BCA
+===== Student Record Menu =====
+Enter your choice: 2
+===== Student Records =====
+Roll No: 101
+Name: Rahul
+Course: BCA
 Marks: 87.5
 Grade: B
 -----------------------
