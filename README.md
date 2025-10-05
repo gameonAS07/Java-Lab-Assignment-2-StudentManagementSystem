@@ -1,5 +1,11 @@
 # 🎓 Student Management System (Java OOP Project)
 
+- Course: Java Programming Lab
+- Faculty: Dr. Manish Kumar
+- Name : Akash Sharma
+- Roll No: 2401201108
+- BCA(Ai & Ds) Sec : B
+
 A simple **Student Record Management System** built in **Java** demonstrating Object-Oriented Programming (OOP) concepts like **Inheritance**, **Encapsulation**, **Abstraction**, and **Polymorphism**.
 
 This project was created as part of the **Java Programming Lab Assignment (Dr. Manish Kumar)**.
