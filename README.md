@@ -57,12 +57,12 @@ Enter Course: BCA
 Enter Marks: 87.5
 Student added successfully!
 
-===== Student Record Menu =====
-Enter your choice: 2
-===== Student Records =====
-Roll No: 101
-Name: Rahul
-Course: BCA
+##===== Student Record Menu =====
+-Enter your choice: 2
+##===== Student Records =====
+-Roll No: 101
+-Name: Rahul
+-Course: BCA
 Marks: 87.5
 Grade: B
 -----------------------
